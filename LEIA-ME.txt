@@ -1,0 +1,4 @@
+1) Suba TODO o conteúdo desta pasta na raiz do cursosprohub.online (public_html).
+2) Imagens: rode uma vez  python3 baixar-imagens.py  (baixa para img/). Sem isso, o site carrega direto do servidor do produtor.
+3) Trocar contato@cursosprohub.online em contato.html pelo seu e-mail real.
+4) Cole Search Console / Google Tag SEUS no <head> do index.html (comentários marcados) e envie sitemap.xml.

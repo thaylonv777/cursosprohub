@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['baixar-imagens.py']
+    paths: ['baixar-imagens.py', '.github/workflows/baixar-imagens.yml']
 permissions:
   contents: write
 jobs:
